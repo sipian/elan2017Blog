@@ -1,0 +1,185 @@
+#logo a {
+    color: ##2D3032;
+}
+
+#footer,
+#footer .post-article,
+#back-to-top i,
+#footer #wp-calendar {
+    background-color: #ffffff;
+}
+
+#footer h3.title,
+#footer a,
+#footer p,
+#footer li,
+#footer address,
+#footer dd,
+#footer blockquote,
+#footer td,
+#footer th,
+#footer label,
+#footer .textwidget,
+#back-to-top i,
+#footer #wp-calendar caption,
+#footer #wp-calendar td a,
+#footer h4.title {
+    color: #333333;
+}
+
+#footer .copyright,
+#footer li,
+#footer ul.contact-info li,
+#footer .socials a,
+#back-to-top i,
+#footer ul.children,
+#footer ul.sub-menu {
+    border-color: #dddddd;
+}
+
+::-moz-selection {
+    background-color: #af7ac5;
+}
+
+::selection {
+    background-color: #af7ac5;
+}
+
+#wp-calendar,
+nav#widgetmenu ul,
+.skills .views,
+.filter,
+a.button,
+#searchform input[type=submit],
+.contact-form input[type=submit],
+#commentform input[type=submit],
+.hd-thumbs li a.overlay-link,
+#header,
+nav#mainmenu ul ul,
+.post-article .link a,
+.post-article .quote,
+.tagcloud a,
+ul.widget-category,
+.tabs ul,
+.tabs li a,
+.toggle_container h5.element {
+    background-color: #af7ac5;
+}
+
+.skills .views,
+.filter,
+#searchform input[type=submit],
+.contact-form input[type=submit],
+#commentform input[type=submit],
+.hd-thumbs li a.overlay-link,
+.hd-thumbs li a.overlay-link:hover {
+    border-color: #af7ac5;
+}
+
+nav#mainmenu ul li a:hover,
+nav#mainmenu li:hover > a,
+nav#mainmenu ul li.current-menu-item > a,
+nav#mainmenu ul li.current_page_item > a,
+nav#mainmenu ul li.current-menu-parent > a,
+nav#mainmenu ul li.current_page_ancestor > a,
+nav#mainmenu ul li.current-menu-ancestor > a,
+#back-to-top i.open,
+#back-to-top i:hover,
+.post-article .link a:hover,
+.post-article .quote:hover,
+.filter li:hover,
+.filter li.active,
+ul.widget-category li a:hover,
+#wp-calendar #today,
+#wp-calendar #today a,
+.tagcloud a:hover,
+.tabs li a:hover,
+.tabs li.ui-tabs-active a,
+.tabs li.ui-state-active a,
+.toggle_container h5.element:hover,
+.toggle_container h5.inactive,
+.toggle_container h5.inactive:hover,
+.socials a:hover,
+.wp-pagenavi a:hover,
+.wp-pagenavi span.current,
+.wip-pagination span,
+.wip-pagination span:hover,
+#searchform input[type=submit]:hover,
+.contact-form input[type=submit]:hover,
+#commentform input[type=submit]:hover,
+.skills .views.active,
+.skills .views:hover,
+.theme-default .nivo-directionNav a:hover,
+.flexslider:hover .flex-next:hover,
+.flexslider:hover .flex-prev:hover,
+nav#widgetmenu li a:hover,
+nav#widgetmenu li:hover > a,
+nav#widgetmenu li.current-menu-item > a,
+nav#widgetmenu li.current-menu-ancestor > a,
+#jprePercentage,
+.hd-thumbs li div.overlay-details,
+.hd-thumbs li a.overlay-link:hover,
+a.button:hover {
+    background-color: #9b59b6;
+}
+
+.line a:hover,
+a.more:hover,
+a:hover,
+#footer a:hover,
+#sidebar a:hover,
+.post-article .title a:hover,
+.post-info a:hover,
+.filterable-grid h4.title a:hover,
+.filterable-grid h4.title a:focus,
+#logo a:hover,
+#footer a:hover,
+.line span a:hover {
+    color: #9b59b6;
+}
+
+#wp-calendar th,
+#wp-calendar td,
+nav#widgetmenu li a,
+nav#mainmenu ul li a:hover,
+nav#mainmenu li:hover > a,
+nav#mainmenu ul li.current-menu-item > a,
+nav#mainmenu ul li.current_page_item > a,
+nav#mainmenu ul li.current-menu-parent > a,
+nav#mainmenu ul li.current_page_ancestor > a,
+nav#mainmenu ul li.current-menu-ancestor > a,
+nav#mainmenu ul ul li:last-of-type a:hover,
+nav#mainmenu ul ul li:last-of-type:hover > a,
+nav#mainmenu ul ul li.current-menu-item > a,
+nav#mainmenu ul ul li.current_page_item > a,
+nav#mainmenu ul ul li.current-menu-parent > a,
+nav#mainmenu ul ul li.current_page_ancestor > a,
+nav#mainmenu ul ul li.current-menu-ancestor > a,
+#back-to-top i.open,
+#back-to-top i:hover,
+nav#widgetmenu li a:hover,
+nav#widgetmenu li:hover > a,
+nav#widgetmenu li.current-menu-item > a,
+nav#widgetmenu li.current-menu-ancestor > a,
+ul.widget-category li a:hover,
+.tagcloud a:hover,
+.toggle_container h5.element:hover,
+.toggle_container h5.inactive,
+.toggle_container h5.inactive:hover,
+.toggle_container h5.element:hover:last-of-type,
+.toggle_container h5.inactive:last-of-type,
+.toggle_container h5.inactive:hover:last-of-type,
+.socials a:hover,
+#searchform input[type=submit]:hover,
+.contact-form input[type=submit]:hover,
+#commentform input[type=submit]:hover,
+#sidebar ul.widget-category li a:hover,
+#footer ul.widget-category li a:hover,
+ul.widget-category li a,
+#footer .socials a:hover,
+.toggle_container h5.element:hover,
+.toggle_container h5.inactive,
+.toggle_container h5.inactive:hover,
+.toggle_container h5.element {
+    border-color: #9b59b6;
+}

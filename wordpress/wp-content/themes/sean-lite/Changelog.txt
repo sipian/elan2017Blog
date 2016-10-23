@@ -1,0 +1,38 @@
+Sean Lite Changelog
+
+- Version 1.1.7 - Released: 05.09.2016
+
+-- Updated : Instagram icon.
+-- Updated : Font Awesome icon pack.
+-- Edit  : Code optimized.
+
+- Version 1.0.9 - Released: 04.06.2015
+
+-- Added : Theme panel integrated in the WordPress Customizer
+
+- Version 1.0.5 - Released: 09.03.2015
+
+-- Fixed : Tag title with the older versions of WordPress
+
+- Version 1.0.4 - Released: 05.03.2015
+
+-- Fixed : Attachment title.
+-- Fixed : Gallery items with caption.
+-- Added : Wordpress tag title support.
+
+- Version 1.0.3 - Released: 05.02.2015
+
+-- Added : Whatsapp icon.
+-- Added : Chat, status and image post format.
+
+- Version 1.0.2 - Released: 02.01.2015
+
+-- Fixed : Problems with footer sidebar.
+-- Fixed : Message error after saving from the theme options.
+-- Fixed : Comments for password protected page.
+-- Fixed : Responsive images with captions.
+-- Fixed : Images with hover effect.
+
+- Version 1.0.0 - Released: 03.10.2014
+
+-- Initial theme version.
